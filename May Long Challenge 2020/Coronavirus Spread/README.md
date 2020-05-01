@@ -38,4 +38,14 @@ Subtask #2 (90 points): original constraints
 3 3\
 2 3
 
+### Explanation:
+Example case 1: The distance between the two people is 3, so the virus cannot spread and at the end, there will always be only one infected person.
+
+Example case 2: The distance between each two adjacent people is 2, so all of them will eventually get infected.
+
+Example case 3:
+
+In one of the best possible scenarios, the person at the position 1 is infected initially and the virus will also infect the person at the position 2.
+In one of the worst possible scenarios, the person at the position 5 is infected initially and the virus will also infect the people at the positions 6 and 7.
+
  
