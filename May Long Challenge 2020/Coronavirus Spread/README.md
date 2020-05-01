@@ -14,4 +14,10 @@ The second line contains N space-seperated integers X1,X2,…,XN.
 ### Output
 For each test case, print a single line containing two space-separated integers ― the minimum and maximum possible final number of infected people.
 
+### Constraints
+1≤T≤2,000\
+2≤N≤8\
+0≤Xi≤10 for each valid i\
+X1<X2<…<XN
+
  
