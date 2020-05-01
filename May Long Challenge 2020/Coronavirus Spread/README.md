@@ -11,5 +11,7 @@ The first line of the input contains a single integer T denoting the number of t
 The first line of each test case contains a single integer N.\
 The second line contains N space-seperated integers X1,X2,…,XN.
 
+### Output
+For each test case, print a single line containing two space-separated integers ― the minimum and maximum possible final number of infected people.
 
  
