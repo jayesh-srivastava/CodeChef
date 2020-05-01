@@ -6,5 +6,10 @@ It turns out that exactly one of these people is infected with the virus COVID-1
 
 Your task is to find the smallest and largest value of the final number of infected people, i.e. this number in the best and in the worst possible scenario.
 
+### Input
+The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.\
+The first line of each test case contains a single integer N.\
+The second line contains N space-seperated integers X1,X2,…,XN.
+
 
  
