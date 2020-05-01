@@ -20,4 +20,22 @@ For each test case, print a single line containing two space-separated integers 
 0≤Xi≤10 for each valid i\
 X1<X2<…<XN
 
+### Subtasks
+Subtask #1 (10 points): N≤3\
+Subtask #2 (90 points): original constraints
+
+### Example Input
+3\
+2\
+3 6\
+3\
+1 3 5\
+5\
+1 2 5 6 7
+
+### Example Output
+1 1\
+3 3\
+2 3
+
  
