@@ -4,15 +4,15 @@ However, the government introduced a price ceiling K, which means that for each 
 
 Chef's revenue is the sum of prices of all the items he sells. Find the amount of revenue which Chef loses because of this price ceiling.
 
-#### Input\
+#### Input
 The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
 The first line of each test case contains two space-separated integers N and K.
 The second line contains N space-separated integers P1,P2,…,PN.
 
-Output\
+#### Output
 For each test case, print a single line containing one integer ― the amount of lost revenue.
 
-Constraints\
+#### Constraints
 1≤T≤100\
 1≤N≤10,000\
 1≤Pi≤1,000 for each valid i\
@@ -20,7 +20,7 @@ Constraints\
 Subtasks\
 Subtask #1 (100 points): original constraints
 
-Example Input\
+#### Example Input
 3\
 5 4\
 10 2 3 4 5\
@@ -29,12 +29,12 @@ Example Input\
 5 5\
 10 9 8 7 6
 
-Example Output\
+#### Example Output
 7\
 0\
 15
 
-Explanation\
+#### Explanation
 Test Case 1: The initial revenue is 10+2+3+4+5=24. Because of the price ceiling, P1 decreases from 10 to 4 and P5 decreases from 5 to 4. The revenue afterwards is 4+2+3+4+4=17 and the lost revenue is 24−17=7.
 
 Test Case 2: The initial revenue is 1+2+3+4+5+6+7=28. For each valid i, Pi≤15, so there are no changes, the revenue after introduction of the price ceiling is the same and there is zero lost revenue.
