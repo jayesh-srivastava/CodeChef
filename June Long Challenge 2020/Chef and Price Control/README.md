@@ -4,7 +4,7 @@ However, the government introduced a price ceiling K, which means that for each 
 
 Chef's revenue is the sum of prices of all the items he sells. Find the amount of revenue which Chef loses because of this price ceiling.
 
-Input\
+#### Input\
 The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
 The first line of each test case contains two space-separated integers N and K.
 The second line contains N space-separated integers P1,P2,…,PN.
