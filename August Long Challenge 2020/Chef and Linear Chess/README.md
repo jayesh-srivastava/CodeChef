@@ -1,7 +1,8 @@
+# Chef and Linear Chess
+
 Chef wants to play a game of linear chess on a one-dimensional board ― an infinite row of squares numbered by positive integers. In this game, he has a pawn, which is initially at a square K. There are also N other people (numbered 1 through N); Chef can choose one of them to play against. For each valid i, the i-th player would play in the following way:
 
 Take a pawn and place it on a square Pi.
-# Chef and Linear Chess
 
 Repeat the following move any number of times: move the pawn from its current square Pi squares forward, i.e. from a square s, this player's pawn is moved to the square s+Pi.
 If this player moves their pawn to the square with Chef's pawn, then Chef's pawn is captured and he loses the game.
