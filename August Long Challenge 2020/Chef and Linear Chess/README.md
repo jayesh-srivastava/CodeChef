@@ -32,7 +32,7 @@ Subtask #1 (100 points): original constraints
 4 6\
 4 3 2 8\
 4 7\
-4 3 2 8\
+4 3 2 8
 
 ### Example Output
 3\
