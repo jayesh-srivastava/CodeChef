@@ -6,7 +6,8 @@ The power of a positive integer is the sum of digits of that integer. For exampl
 Chef and Rick receive randomly generated positive integers. For each player, let's call the integer he received final power.\
 The goal of each player is to generate a positive integer such that its power (defined above) is equal to his final power.\
 The player who generated the integer with fewer digits wins the game. If both have the same number of digits, then Rick cheats and wins the game.\
-You are given the final power of Chef PC and the final power of Rick PR. Assuming that both players play optimally, find the winner of the game and the number of digits of the integer he generates.
+You are given the final power of Chef PC and the final power of Rick PR.\
+Assuming that both players play optimally, find the winner of the game and the number of digits of the integer he generates.
 
 ### Input
 The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.\
