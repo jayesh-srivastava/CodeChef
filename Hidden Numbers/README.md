@@ -19,16 +19,16 @@ For each of the T testcases, output two space-separated integers A and B.
 Subtask 1 [100 points]: No additional constraints.
 
 ### Sample Input:
-5/
-1/
-3/
-5/
-8/
+5\
+1\
+3\
+5\
+8\
 10
 
 ### Sample Output:
-1 1/
-1 3/
-1 5/
-1 8/
+1 1\
+1 3\
+1 5\
+1 8\
 2 5
