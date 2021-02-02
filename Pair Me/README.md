@@ -35,7 +35,7 @@ YES
 ### Explanation:
 Case 1: For this case, the third integer can be written as the sum of the first two. 2=1+1\
 Case 2: For this case, the second integer can be written as the sum of the first and third. 3=1+2\
-Case 3: For this case, no integer can be written as the sum of other two.\
+Case 3: For this case, no integer can be written as the sum of other two.
 
 Case 4: For this case, no integer can be written as the sum of other two.
 
