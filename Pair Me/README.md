@@ -18,24 +18,24 @@ NOTE: The output is case insensitive, meaning both uppercase and lowercase chara
 100% points - Original constraints
 
 ### Sample Input:
-5
-1 1 2
-1 3 2
-2 2 2
-100 100 201
+5\
+1 1 2\
+1 3 2\
+2 2 2\
+100 100 201\
 11 22 33
 
 ### Sample Output:
-YES
-YES
-NO
-NO
+YES\
+YES\
+NO\
+NO\
 YES
 
 ### Explanation:
-Case 1: For this case, the third integer can be written as the sum of the first two. 2=1+1
-Case 2: For this case, the second integer can be written as the sum of the first and third. 3=1+2
-Case 3: For this case, no integer can be written as the sum of other two.
+Case 1: For this case, the third integer can be written as the sum of the first two. 2=1+1\
+Case 2: For this case, the second integer can be written as the sum of the first and third. 3=1+2\
+Case 3: For this case, no integer can be written as the sum of other two.\
 
 Case 4: For this case, no integer can be written as the sum of other two.
 
