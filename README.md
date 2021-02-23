@@ -2,6 +2,6 @@
 
 [![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
 
-Coding practices on Codechef.\
+A record of my coding practice on Codechef.\
 (All programs are the accepted submissions).
 
