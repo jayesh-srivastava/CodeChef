@@ -1,6 +1,6 @@
 # Body Mass Index
 
-You are given the height H (in metres) and mass M (in kilograms) of Chef. The Body Mass Index (BMI) of a person is computed as MH2.
+You are given the height H (in metres) and mass M (in kilograms) of Chef. The Body Mass Index (BMI) of a person is computed as M/H^2.
 
 Report the category into which Chef falls, based on his BMI:
 
@@ -34,8 +34,8 @@ Its guaranteed that H2 divides M.
 4
 
 ### Explanation:
-Case 1: Since MH2=7222=18, therefore person falls in category 1.
+Case 1: Since M/H^2=7222=18, therefore person falls in category 1.
 
-Case 2: Since MH2=8022=20, therefore person falls in category 2.
+Case 2: Since M/H^2=8022=20, therefore person falls in category 2.
 
-Case 3: Since MH2=12022=30, therefore person falls in category 4.
+Case 3: Since M/H^2=12022=30, therefore person falls in category 4.
