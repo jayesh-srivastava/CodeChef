@@ -34,7 +34,7 @@ Subtask #1 (100 points): original constraints
 
 ### Example Output
 1\
-100\ 
+100\
 51
 
 ### Explanation
